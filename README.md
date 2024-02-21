@@ -1,2 +1,3 @@
-# template-github-repository
-A repository to use as a template for other repositories.
+# Template Base Gihub Repository
+
+A repository to use as a base template for other repositories and templates.

@@ -17,6 +17,12 @@ __Reference__:
 
 # CHANGELOG
 
+## [0.3.0]
+
+### Changed
+
+* Updated README
+
 ## [0.2.1]
 
 ### Fixed
