@@ -17,6 +17,21 @@ __Reference__:
 
 # CHANGELOG
 
+## [0.4.0]
+
+### Added
+
+* .vscode/ dir and base files
+* .github/ dir with placeholder
+* CODE_OF_CONDUCT file
+* Makefile
+* .editorconfig
+* .gitattributes
+
+### Changed
+
+* .pre-commit-cofnig.yml to call Makefile
+
 ## [0.3.0]
 
 ### Changed
