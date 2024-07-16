@@ -2,14 +2,14 @@
 
 __N.b.__ Latest version should always be on top
 
-| Heading | Description |
-| :---- | :---- |
-| __Added__ | for new features. |
-| __Changed__ | for changes in existing functionality. |
-| __Deprecated__ | for soon-to-be removed features. |
-| __Removed__ | for now removed features. |
-| __Fixed__ | for any bug fixes. |
-| __Security__ | in case of vulnerabilities. |
+| Heading        | Description                            |
+| :------------- | :------------------------------------- |
+| __Added__      | for new features.                      |
+| __Changed__    | for changes in existing functionality. |
+| __Deprecated__ | for soon-to-be removed features.       |
+| __Removed__    | for now removed features.              |
+| __Fixed__      | for any bug fixes.                     |
+| __Security__   | in case of vulnerabilities.            |
 
 __Reference__:
 * [keepachangelog](https://keepachangelog.com/en/1.0.0/)
@@ -31,6 +31,12 @@ __Reference__:
 ### Changed
 
 * .pre-commit-cofnig.yml to call Makefile
+
+## [0.3.1]
+
+### Fixed
+
+* Typo in the README
 
 ## [0.3.0]
 
